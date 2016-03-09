@@ -16,4 +16,11 @@ Im falling asleep ...
 
 Encapsulation - blocking off areas of code 
 
+MODULES
+
+a module is similar to a class but is a collection of behaviors that other classes can use 
+
+You cannot have an object of a module 
+
+
 
